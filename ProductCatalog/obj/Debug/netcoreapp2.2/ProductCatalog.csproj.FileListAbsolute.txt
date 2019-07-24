@@ -1,0 +1,14 @@
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\bin\Debug\netcoreapp2.2\ProductCatalog.deps.json
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\bin\Debug\netcoreapp2.2\ProductCatalog.runtimeconfig.json
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\bin\Debug\netcoreapp2.2\ProductCatalog.runtimeconfig.dev.json
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\bin\Debug\netcoreapp2.2\ProductCatalog.dll
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\bin\Debug\netcoreapp2.2\ProductCatalog.pdb
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.RazorAssemblyInfo.cache
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.RazorAssemblyInfo.cs
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.AssemblyInfoInputs.cache
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.AssemblyInfo.cs
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.RazorTargetAssemblyInfo.cache
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.dll
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.pdb
+C:\projectLabs\Balta_AspNetCoreEffCore\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.csprojAssemblyReference.cache
